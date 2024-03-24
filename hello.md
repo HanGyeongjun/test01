@@ -2,4 +2,5 @@
 ### Swift is best lang ever
 
 iphone
-mac
+likelion
+kangwon univ
